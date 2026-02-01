@@ -4,7 +4,7 @@ onload = () => {
     document.body.classList.remove("not-loaded");
 
     // const titles = ('I LOVE U').split('')
-    const titles = ('FELIZ AÑO NUEVO').split('')
+    const titles = ('I LOVE YOU').split('')
     const titleElement = document.getElementById('title');
     let index = 0;
 
